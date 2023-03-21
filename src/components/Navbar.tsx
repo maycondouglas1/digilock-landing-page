@@ -19,10 +19,10 @@ export default function Navbar() {
           <a href="#about">Sobre</a>
         </li>
         <li className="text-xl p-4 cursor-pointer hover:text-[#1E90FF] ease-in-out duration-500">
-          <a href="#security">Segurança</a>
+          <a href="#plans">Planos</a>
         </li>
         <li className="text-xl p-4 cursor-pointer hover:text-[#1E90FF] ease-in-out duration-500">
-          <a href="#plans">Planos</a>
+          <a href="#security">Segurança</a>
         </li>
         <li className="text-xl p-4 cursor-pointer hover:text-[#1E90FF] ease-in-out duration-500">
           <a href="#contact">Contato</a>

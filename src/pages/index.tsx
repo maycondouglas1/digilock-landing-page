@@ -11,8 +11,8 @@ export default function Home() {
       <Navbar />
       <Hero />
       <About />
-      <Security />
       <Plans />
+      <Security />
       <Footer />
     </>
   );
