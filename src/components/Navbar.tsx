@@ -12,19 +12,19 @@ export default function Navbar() {
     <div className="flex justify-between items-center h-24 max-w-[1240px] mx-auto px-4">
       <h1 className="text-3xl font-bold w-full text-[#1E90FF]">DIGILOCK.</h1>
       <ul className="hidden md:flex">
-        <li className="text-xl p-4 cursor-pointer hover:text-[#1E90FF]">
+        <li className="text-xl p-4 cursor-pointer hover:text-[#1E90FF] ease-in-out duration-500">
           <a href="#home">Início</a>
         </li>
-        <li className="text-xl p-4 cursor-pointer hover:text-[#1E90FF]">
+        <li className="text-xl p-4 cursor-pointer hover:text-[#1E90FF] ease-in-out duration-500">
           <a href="#about">Sobre</a>
         </li>
-        <li className="text-xl p-4 cursor-pointer hover:text-[#1E90FF]">
+        <li className="text-xl p-4 cursor-pointer hover:text-[#1E90FF] ease-in-out duration-500">
           <a href="#security">Segurança</a>
         </li>
-        <li className="text-xl p-4 cursor-pointer hover:text-[#1E90FF]">
+        <li className="text-xl p-4 cursor-pointer hover:text-[#1E90FF] ease-in-out duration-500">
           <a href="#plans">Planos</a>
         </li>
-        <li className="text-xl p-4 cursor-pointer hover:text-[#1E90FF]">
+        <li className="text-xl p-4 cursor-pointer hover:text-[#1E90FF] ease-in-out duration-500">
           <a href="#contact">Contato</a>
         </li>
       </ul>
