@@ -22,7 +22,7 @@ export default function About() {
           <p>
             A Digilock é uma empresa especializada em serviços de digitalização
             e guarda de documentos com armazenamento em nuvem. Oferecemos
-            suluções personalizadas para empresas de todos os portes e segmentos
+            soluções personalizadas para empresas de todos os portes e segmentos
             em geral.
             <br />
             <br />

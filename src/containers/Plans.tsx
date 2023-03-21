@@ -21,14 +21,9 @@ export default function Plans() {
               <p className="py-2 border-b mx-8 mt-8">
                 Cedemos total acesso de nossa plataforma ao cliente. O cliente
                 efetua a digitalização com armazenamento em pastas que venha a
-                criar, podendo compartilhar documentos digitalizados com outros
-                usuários, onde serão criados login e senha de forma individual
-                que serão repassados ao nosso cliente.
-              </p>
-              <p className="py-2 mx-8 mt-8 text-sm">
-                {" "}
-                *O Plano Premium atende no momento apenas a região da grande São
-                Paulo.
+                criar, podendo compartilhar os documentos digitalizados com
+                outros usuários, onde serão criados login e senha de forma
+                individual que serão repassados ao nosso cliente.
               </p>
             </div>
             <button className="bg-[#1E90FF] w-[200px] text-white rounded-md font-medium my-6 mx-auto px-6 py-3 hover:bg-[#62B1FF] ease-in duration-200">
@@ -54,6 +49,11 @@ export default function Plans() {
                 descartados. O cliente receberá login e senha para acesso em
                 nosso sistema, podendo acessar seus documentos de onde estiver,
                 com disponibilidade e suporte 24 horas por dia.
+              </p>
+              <p className="py-2 mx-8 mt-8 text-sm">
+                {" "}
+                *O Plano Premium atende no momento apenas a região da grande São
+                Paulo.
               </p>
             </div>
             <button className="bg-black text-white w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3 hover:bg-gray-800 ease-in duration-200">
