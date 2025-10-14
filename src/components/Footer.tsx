@@ -1,4 +1,4 @@
-import { faPhone, faEnvelope } from "@fortawesome/free-solid-svg-icons";
+import { faEnvelope, faPhone } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 export default function Footer() {
@@ -6,7 +6,7 @@ export default function Footer() {
     <footer className="bg-blue-600 text-white py-4" id="contact">
       <div className="container mx-auto flex justify-between items-center p-5">
         <div>
-          <p>&copy; 2023 Digilock</p>
+          <p>&copy; 2025 Digilock</p>
         </div>
         <div className="flex items-center">
           <div>
